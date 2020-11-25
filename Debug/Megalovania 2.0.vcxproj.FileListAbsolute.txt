@@ -1,0 +1,4 @@
+D:\Документы\Коды на Visual Studio\Megalovania 2.0\Debug\Megalovania 2.0.exe
+D:\Документы\Коды на Visual Studio\Megalovania 2.0\Debug\Megalovania 2.0.pdb
+D:\Документы\Коды на Visual Studio\Megalovania (fast) — копия\Debug\Megalovania 2.0.exe
+D:\Документы\Коды на Visual Studio\Megalovania (fast) — копия\Debug\Megalovania 2.0.pdb
