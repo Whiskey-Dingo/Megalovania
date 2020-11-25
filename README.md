@@ -1,3 +1,3 @@
 # Megalovania
-Music from the game Undertail)
+Music from Undertail)
 
